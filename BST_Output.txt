@@ -1,0 +1,356 @@
+
+=== === === === === === MENU OF SERVICES === === === === === ===
+D – Depth-First Traversals: inorder, preorder, postorder
+I – Iterative Depth-First Traversals: inorder, preorder, postorder
+B – Tree Breadth-First Traversals: Print by level
+S – Search by the primary key
+M – Find the smallest
+X – Find the largest
+T – Print the BST as an indented list
+H – Help – to show the menu, and
+E – Exit.
+Your choice ==> adsf
+Please enter a valid option following the menu provided above. d
+There are 3 choices:
+1. Preorder
+2. Inorder
+3. Postorder
+Your choice ==> 1
+Depth-First Traversal - Preorder:
+
+3800		2.8		Lee, Victor
+4300		4.0		Trapp, Amanda Elizabeth
+5000		3.4		Lee, Lucy Marie
+3900		3.5		Brown, Joanne
+4200		4.0		Brown, Joanne
+3000		4.0		Brown, Joanne
+3500		3.2		Marcus, John
+3300		3.6		Lee, Victor
+1900		3.9		Walljasper, Bryan
+2100		2.9		Andrews, Dennis
+2800		2.6		Brown, Joanne
+2500		3.8		Lee, Mary
+2500		3.8		Lee, Mary
+1500		4.0		Marcus, John
+
+
+=== === === === === === MENU OF SERVICES === === === === === ===
+D – Depth-First Traversals: inorder, preorder, postorder
+I – Iterative Depth-First Traversals: inorder, preorder, postorder
+B – Tree Breadth-First Traversals: Print by level
+S – Search by the primary key
+M – Find the smallest
+X – Find the largest
+T – Print the BST as an indented list
+H – Help – to show the menu, and
+E – Exit.
+Your choice ==> Please enter a valid option following the menu provided above. d
+There are 3 choices:
+1. Preorder
+2. Inorder
+3. Postorder
+Your choice ==> 2
+Depth-First Traversal - Inorder:
+
+1500		4.0		Marcus, John
+1900		3.9		Walljasper, Bryan
+2100		2.9		Andrews, Dennis
+2500		3.8		Lee, Mary
+2500		3.8		Lee, Mary
+2800		2.6		Brown, Joanne
+3000		4.0		Brown, Joanne
+3300		3.6		Lee, Victor
+3500		3.2		Marcus, John
+3800		2.8		Lee, Victor
+3900		3.5		Brown, Joanne
+4200		4.0		Brown, Joanne
+4300		4.0		Trapp, Amanda Elizabeth
+5000		3.4		Lee, Lucy Marie
+
+
+=== === === === === === MENU OF SERVICES === === === === === ===
+D – Depth-First Traversals: inorder, preorder, postorder
+I – Iterative Depth-First Traversals: inorder, preorder, postorder
+B – Tree Breadth-First Traversals: Print by level
+S – Search by the primary key
+M – Find the smallest
+X – Find the largest
+T – Print the BST as an indented list
+H – Help – to show the menu, and
+E – Exit.
+Your choice ==> Please enter a valid option following the menu provided above. d
+There are 3 choices:
+1. Preorder
+2. Inorder
+3. Postorder
+Your choice ==> 3
+Depth-First Traversal - Postorder:
+
+1500		4.0		Marcus, John
+2500		3.8		Lee, Mary
+2500		3.8		Lee, Mary
+2800		2.6		Brown, Joanne
+2100		2.9		Andrews, Dennis
+1900		3.9		Walljasper, Bryan
+3300		3.6		Lee, Victor
+3500		3.2		Marcus, John
+3000		4.0		Brown, Joanne
+4200		4.0		Brown, Joanne
+3900		3.5		Brown, Joanne
+5000		3.4		Lee, Lucy Marie
+4300		4.0		Trapp, Amanda Elizabeth
+3800		2.8		Lee, Victor
+
+
+=== === === === === === MENU OF SERVICES === === === === === ===
+D – Depth-First Traversals: inorder, preorder, postorder
+I – Iterative Depth-First Traversals: inorder, preorder, postorder
+B – Tree Breadth-First Traversals: Print by level
+S – Search by the primary key
+M – Find the smallest
+X – Find the largest
+T – Print the BST as an indented list
+H – Help – to show the menu, and
+E – Exit.
+Your choice ==> Please enter a valid option following the menu provided above. i
+There are 3 choices:
+1. Preorder
+2. Inorder
+3. Postorder
+Your choice ==> 1
+Depth-First Traversal - Preorder:
+
+3800		2.8		Lee, Victor
+4300		4.0		Trapp, Amanda Elizabeth
+5000		3.4		Lee, Lucy Marie
+3900		3.5		Brown, Joanne
+4200		4.0		Brown, Joanne
+3000		4.0		Brown, Joanne
+3500		3.2		Marcus, John
+3300		3.6		Lee, Victor
+1900		3.9		Walljasper, Bryan
+2100		2.9		Andrews, Dennis
+2800		2.6		Brown, Joanne
+2500		3.8		Lee, Mary
+2500		3.8		Lee, Mary
+1500		4.0		Marcus, John
+
+
+=== === === === === === MENU OF SERVICES === === === === === ===
+D – Depth-First Traversals: inorder, preorder, postorder
+I – Iterative Depth-First Traversals: inorder, preorder, postorder
+B – Tree Breadth-First Traversals: Print by level
+S – Search by the primary key
+M – Find the smallest
+X – Find the largest
+T – Print the BST as an indented list
+H – Help – to show the menu, and
+E – Exit.
+Your choice ==> Please enter a valid option following the menu provided above. i
+There are 3 choices:
+1. Preorder
+2. Inorder
+3. Postorder
+Your choice ==> 2
+Depth-First Traversal - Inorder:
+
+1500		4.0		Marcus, John
+1900		3.9		Walljasper, Bryan
+2100		2.9		Andrews, Dennis
+2500		3.8		Lee, Mary
+2500		3.8		Lee, Mary
+2800		2.6		Brown, Joanne
+3000		4.0		Brown, Joanne
+3300		3.6		Lee, Victor
+3500		3.2		Marcus, John
+3800		2.8		Lee, Victor
+3900		3.5		Brown, Joanne
+4200		4.0		Brown, Joanne
+4300		4.0		Trapp, Amanda Elizabeth
+5000		3.4		Lee, Lucy Marie
+
+
+=== === === === === === MENU OF SERVICES === === === === === ===
+D – Depth-First Traversals: inorder, preorder, postorder
+I – Iterative Depth-First Traversals: inorder, preorder, postorder
+B – Tree Breadth-First Traversals: Print by level
+S – Search by the primary key
+M – Find the smallest
+X – Find the largest
+T – Print the BST as an indented list
+H – Help – to show the menu, and
+E – Exit.
+Your choice ==> Please enter a valid option following the menu provided above. i
+There are 3 choices:
+1. Preorder
+2. Inorder
+3. Postorder
+Your choice ==> 3
+Depth-First Traversal - Postorder:
+
+1500		4.0		Marcus, John
+2500		3.8		Lee, Mary
+2500		3.8		Lee, Mary
+2800		2.6		Brown, Joanne
+2100		2.9		Andrews, Dennis
+1900		3.9		Walljasper, Bryan
+3300		3.6		Lee, Victor
+3500		3.2		Marcus, John
+3000		4.0		Brown, Joanne
+4200		4.0		Brown, Joanne
+3900		3.5		Brown, Joanne
+5000		3.4		Lee, Lucy Marie
+4300		4.0		Trapp, Amanda Elizabeth
+3800		2.8		Lee, Victor
+
+
+=== === === === === === MENU OF SERVICES === === === === === ===
+D – Depth-First Traversals: inorder, preorder, postorder
+I – Iterative Depth-First Traversals: inorder, preorder, postorder
+B – Tree Breadth-First Traversals: Print by level
+S – Search by the primary key
+M – Find the smallest
+X – Find the largest
+T – Print the BST as an indented list
+H – Help – to show the menu, and
+E – Exit.
+Your choice ==> Please enter a valid option following the menu provided above. b
+Tree Breadth-First Traversals - Print by level:
+
+3800		2.8		Lee, Victor
+3000		4.0		Brown, Joanne
+4300		4.0		Trapp, Amanda Elizabeth
+1900		3.9		Walljasper, Bryan
+3500		3.2		Marcus, John
+3900		3.5		Brown, Joanne
+5000		3.4		Lee, Lucy Marie
+1500		4.0		Marcus, John
+2100		2.9		Andrews, Dennis
+3300		3.6		Lee, Victor
+4200		4.0		Brown, Joanne
+2800		2.6		Brown, Joanne
+2500		3.8		Lee, Mary
+2500		3.8		Lee, Mary
+
+
+=== === === === === === MENU OF SERVICES === === === === === ===
+D – Depth-First Traversals: inorder, preorder, postorder
+I – Iterative Depth-First Traversals: inorder, preorder, postorder
+B – Tree Breadth-First Traversals: Print by level
+S – Search by the primary key
+M – Find the smallest
+X – Find the largest
+T – Print the BST as an indented list
+H – Help – to show the menu, and
+E – Exit.
+Your choice ==> s
+Please enter 4-digit Student ID ==> 3500
+Student is Found:
+3500		3.2		Marcus, John
+
+
+=== === === === === === MENU OF SERVICES === === === === === ===
+D – Depth-First Traversals: inorder, preorder, postorder
+I – Iterative Depth-First Traversals: inorder, preorder, postorder
+B – Tree Breadth-First Traversals: Print by level
+S – Search by the primary key
+M – Find the smallest
+X – Find the largest
+T – Print the BST as an indented list
+H – Help – to show the menu, and
+E – Exit.
+Your choice ==> Please enter a valid option following the menu provided above. s
+Please enter 4-digit Student ID ==> -1231
+Please enter 4-digit Student ID ==> 52242
+Please enter 4-digit Student ID ==> 3555
+Student is Not Found
+
+
+=== === === === === === MENU OF SERVICES === === === === === ===
+D – Depth-First Traversals: inorder, preorder, postorder
+I – Iterative Depth-First Traversals: inorder, preorder, postorder
+B – Tree Breadth-First Traversals: Print by level
+S – Search by the primary key
+M – Find the smallest
+X – Find the largest
+T – Print the BST as an indented list
+H – Help – to show the menu, and
+E – Exit.
+Your choice ==> Please enter a valid option following the menu provided above. m
+1500		4.0		Marcus, John
+
+=== === === === === === MENU OF SERVICES === === === === === ===
+D – Depth-First Traversals: inorder, preorder, postorder
+I – Iterative Depth-First Traversals: inorder, preorder, postorder
+B – Tree Breadth-First Traversals: Print by level
+S – Search by the primary key
+M – Find the smallest
+X – Find the largest
+T – Print the BST as an indented list
+H – Help – to show the menu, and
+E – Exit.
+Your choice ==> x
+5000		3.4		Lee, Lucy Marie
+
+=== === === === === === MENU OF SERVICES === === === === === ===
+D – Depth-First Traversals: inorder, preorder, postorder
+I – Iterative Depth-First Traversals: inorder, preorder, postorder
+B – Tree Breadth-First Traversals: Print by level
+S – Search by the primary key
+M – Find the smallest
+X – Find the largest
+T – Print the BST as an indented list
+H – Help – to show the menu, and
+E – Exit.
+Your choice ==> t
+1. 3800	Lee, Victor	2.8
+2. 4300	Trapp, Amanda Elizabeth	4.0
+3. 5000	Lee, Lucy Marie	3.4
+3. 3900	Brown, Joanne	3.5
+4. 4200	Brown, Joanne	4.0
+2. 3000	Brown, Joanne	4.0
+3. 3500	Marcus, John	3.2
+4. 3300	Lee, Victor	3.6
+3. 1900	Walljasper, Bryan	3.9
+4. 2100	Andrews, Dennis	2.9
+5. 2800	Brown, Joanne	2.6
+6. 2500	Lee, Mary	3.8
+7. 2500	Lee, Mary	3.8
+4. 1500	Marcus, John	4.0
+
+
+=== === === === === === MENU OF SERVICES === === === === === ===
+D – Depth-First Traversals: inorder, preorder, postorder
+I – Iterative Depth-First Traversals: inorder, preorder, postorder
+B – Tree Breadth-First Traversals: Print by level
+S – Search by the primary key
+M – Find the smallest
+X – Find the largest
+T – Print the BST as an indented list
+H – Help – to show the menu, and
+E – Exit.
+Your choice ==> h
+
+=== === === === === === MENU OF SERVICES === === === === === ===
+D – Depth-First Traversals: inorder, preorder, postorder
+I – Iterative Depth-First Traversals: inorder, preorder, postorder
+B – Tree Breadth-First Traversals: Print by level
+S – Search by the primary key
+M – Find the smallest
+X – Find the largest
+T – Print the BST as an indented list
+H – Help – to show the menu, and
+E – Exit.
+
+=== === === === === === MENU OF SERVICES === === === === === ===
+D – Depth-First Traversals: inorder, preorder, postorder
+I – Iterative Depth-First Traversals: inorder, preorder, postorder
+B – Tree Breadth-First Traversals: Print by level
+S – Search by the primary key
+M – Find the smallest
+X – Find the largest
+T – Print the BST as an indented list
+H – Help – to show the menu, and
+E – Exit.
+Your choice ==> e
+Program ended with exit code: 0
